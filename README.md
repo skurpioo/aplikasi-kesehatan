@@ -41,9 +41,11 @@ Desain dapat dikembangkan lebih lanjut untuk kebutuhan **mobile atau web app**.
 ---
 
 ## 📷 Preview
-_(Tambahkan screenshot desain di sini)_
-
+https://www.figma.com/design/6Q2KkpNdULJ3Ke12JaE68l/TR_APLIKASI-KESEHATAN?node-id=0-1&t=6lGuuW1CEKdXMtik-1
 ---
+
+
+
 
 Terima kasih sudah melihat repository ini ✨  
 Feedback dan saran sangat terbuka!
