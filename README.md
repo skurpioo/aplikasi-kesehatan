@@ -41,7 +41,7 @@ Desain dapat dikembangkan lebih lanjut untuk kebutuhan **mobile atau web app**.
 ---
 
 ## 📷 Preview
-[Figma Design](https://www.figma.com/design/6Q2KkpNdULJ3Ke12JaE68l/TR_APLIKASI-KESEHATAN?node-id=0-1&t=6lGuuW1CEKdXMtik-1)
+[Figma Design Click Me!](https://www.figma.com/design/6Q2KkpNdULJ3Ke12JaE68l/TR_APLIKASI-KESEHATAN?node-id=0-1&t=6lGuuW1CEKdXMtik-1)
 
 ---
 
